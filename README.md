@@ -1,4 +1,4 @@
-# Project COCO Basic
+# Project COCO Advanced
 An Advanced front-end practice to see how HTML CSS works with animations
 
 ## Working
